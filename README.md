@@ -1,5 +1,5 @@
 ### Hi.
-I'm a brazilian Software Developer. I’m excited about innovation, Software Development, Digital Transformation, solutions and strategies using Logical reasoning and creativity. 🤍
+I'm a brazilian Software Engineer. I’m excited about innovation, Software Development, Digital Transformation, solutions and strategies using Logical reasoning and creativity. 🤍
 
 <!--
 **nathalianmachado/nathalianmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
